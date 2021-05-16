@@ -1,3 +1,5 @@
+# This should be used with pytest.
+
 import wordcount
 
 def test_empty():
